@@ -1,0 +1,25 @@
+<package>
+	<id>kr.xsf1re.flyjbx</id>
+	<name>PowerSelector (iOS 11 to 14)</name>
+	<version>1.2.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>14.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>1.2.5</shortDescription>
+	<descriptionlist>
+		<description>1.2.5</description>
+		<description>Supports iOS 11.0 - 14</description>
+	</descriptionlist>
+	<screenshots>tw3to.png</screenshots>
+	<changelog>
+		<change>1.2.5</change>
+	</changelog>
+	<links></links>
+</package>

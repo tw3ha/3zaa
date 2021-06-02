@@ -1,0 +1,25 @@
+<package>
+	<id>com.exile90.icleanerpro</id>
+	<name>iCleaner</name>
+	<version>7.9.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>4.0</miniOS>
+			<maxiOS>15.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>iCleaner</shortDescription>
+	<descriptionlist>
+		<description>iCleaner</description>
+		<description>Supports iOS 4.0 - 14</description>
+	</descriptionlist>
+	<screenshots>tw3to.png</screenshots>
+	<changelog>
+		<change>iCleaner</change>
+	</changelog>
+	<links></links>
+</package>

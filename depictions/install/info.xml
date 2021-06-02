@@ -1,0 +1,37 @@
+<package>
+	<id>com.github.tw3to.install</id>
+	<name>install</name>
+	<version>1.3.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>14.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>ws.hbang.common</package>
+		<package>applist</package>
+		<package>com.brend0n.accdemo</package>
+		<package>com.exile90.icleanerpro</package>
+		<package>com.ichitaso.powerselector11</package>
+		<package>com.opa334.altlist</package>
+		<package>com.pw5a29.speedintensifier</package>
+		<package>com.rpetrich.rocketbootstrap</package>
+		<package>com.tigisoftware.filza64bit</package>
+		<package>kr.xsf1re.flyjbx</package>
+		<package>preferenceloader</package>
+		<package>com.tw1sp.tw1sp</package>
+	</dependencies>
+	<shortDescription>1.0.1</shortDescription>
+	<descriptionlist>
+		<description>1.0.1 </description>
+		<description>Supports iOS 11.0 - 14</description>
+	</descriptionlist>
+	<screenshots>tw3to.png</screenshots>
+	<changelog>
+		<change>1.0.1</change>
+	</changelog>
+	<links></links>
+</package>

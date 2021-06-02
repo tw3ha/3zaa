@@ -1,0 +1,8 @@
+Origin: 3za Repo
+Label: adelsami
+Suite: stable
+Version: 1.0
+Codename: adelsami
+Architectures: iphoneos-arm
+Components: main
+Description: 3zo Tweaks

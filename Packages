@@ -1,0 +1,79 @@
+Package: com.brend0n.accdemo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.brend0n.accdemo_1.0_iphoneos-arm.deb
+Size: 175268
+MD5sum: 590704cef3b83798c13cd9e2774c6961
+SHA1: 4c653249fe46c9633341683cad27fc9c5f4a6734
+SHA256: c170bb8c8efa04fa140af40b78dbf629fb441c5df575b4a783281f7436a0b1bc
+Section: Tweaks
+Description: unity/cocos2d game accelerator
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=accdemoDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=accdemoDp
+Installed-Size: 765
+Name: accDemo
+Priority: optional
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: brend0n
+
+Package: com.exile90.icleanerpro
+Version: 7.9.1
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.exile90.icleanerpro_7.9.1_iphoneos-arm.deb
+Size: 4786998
+MD5sum: ccd722461350e28e2e0b5a029416ca6c
+SHA1: 36acad04b82db75d345c91ee363a27eb4d602a27
+SHA256: f1e6087494618183f7539bba3a38ee88608383868cfcd524f99b46d7e7a27a47
+Section: Utilities
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Homepage: http://ib-soft.net/icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.github.tw3to.install
+Version: 1.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: adel
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 10.0), applist, com.brend0n.accdemo, com.exile90.icleanerpro,  com.ichitaso.powerselector11, com.opa334.altlist, com.pw5a29.speedintensifier, com.rpetrich.rocketbootstrap, com.tigisoftware.filza64bit, kr.xsf1re.flyjbx, preferenceloader, com.tw1sp.tw1sp
+Filename: ./debs/com.github.tw3to.install_1.0.1-1+debug_iphoneos-arm.deb
+Size: 748
+MD5sum: ee610e70e59779ccf19458a0f6bba579
+SHA1: 08da4844c95e687b08aa8b226dffca96132d8ba5
+SHA256: ca86edc3581ffcfac6d582f7fd79a3aec2bbfa5274a73aec0a73d78355b28b24
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=install
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/install.json
+Section: Tweaks
+Description: install for Tweaks 
+Author: adel
+Installed-Size: 0
+Name: install
+
+Package: kr.xsf1re.flyjbx
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb
+Filename: ./debs/kr.xsf1re.flyjbx_1.2.5_iphoneos-arm.deb
+Size: 649864
+MD5sum: 5e955e26724e79ff8ca45032679f9cd9
+SHA1: 7fb5d1a3982b471a2af9e47e904d4d0519df3a16
+SHA256: 96491acad71a3696950acf68b06075c04a8e3753164221f7e8f16fe7ca528419
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=FlyJB
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/FlyJB.json
+Section: Tweaks
+Description: You can HIDE Doing jailbreak your iDevice.
+Author: XsF1re
+Installed-Size: 1580
+Name: FlyJB X
+
